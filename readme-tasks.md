@@ -21,3 +21,8 @@
 * Фильтр визитов;
 * Модуль forms и дочерние классы;
 * Модуль modals, components и дочерние классы;
+
+
+
+**Registration Step Cards API:**
+https://ajax.test-danit.com/front-pages/cards-register.html
